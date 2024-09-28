@@ -26,13 +26,10 @@ En este tutorial, aprenderá a
 - Crear un API REST que soporta operaciones de negocio
 - Crear una prueba sencilla para la aplicación
 
-
 ## Requisitos previos
 
 - Conocimientos básicos de programación, Java y bases de datos.
 - Una instancia de [Gitpod](https://gitpod.io/) o un computador con [Docker Desktop](https://www.docker.com/products/docker-desktop/) y [Visual Studio Code](https://code.visualstudio.com/) instalado. 
-
----
 
 ## Paso a paso
 
