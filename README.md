@@ -13,12 +13,9 @@
 🧑‍🤝‍🧑- Team: Juan Rozo, Gabriel Riaño, Daniel Castro y Mapa Ruiz
 
 ---
-
 # Creando una aplicación con Spring Boot
 
 > En este tutorial creará una pequeña aplicación web usando [Spring Boot](https://spring.io/projects/spring-boot): un conjunto de herramientas y librerías que facilitan el desarrollo de aplicaciones empresariales. 
-
----
 
 ## Objetivos de aprendizaje
 
