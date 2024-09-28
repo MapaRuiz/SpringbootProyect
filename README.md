@@ -1,3 +1,17 @@
+<h1 align="center">Hi 👋, I'm Mapa Ruiz</h1>
+<h3 align="center">A passionate systems engineer from Colombia</h3>
+
+# Springboot Proyect
+📄 - Mini proyect.
+
+🟧- Subject: Fundamentals of software engineering
+
+👨‍🏫- Teacher: Jaime Chavarriaga
+
+🏦- University: Pontificia Universidad Javeriana
+
+🧑‍🤝‍🧑- Team: Juan Rozo, Gabriel Riaño, Daniel Castro y Mapa Ruiz
+
 # Creando una aplicación con Spring Boot
 
 > En este tutorial creará una pequeña aplicación web usando [Spring Boot](https://spring.io/projects/spring-boot): un conjunto de herramientas y librerías que facilitan el desarrollo de aplicaciones empresariales. 
